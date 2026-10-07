@@ -33,6 +33,9 @@ function Navbar() {
 						</NavLink>
 					))}
 				</div>
+				<button className="rounded-xl bg-primary px-3 py-2 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90">
+					Sign in
+				</button>
 			</nav>
 		</header>
 	)
